@@ -1,0 +1,16 @@
+#!/bin/sh
+p=32
+while [ $p -ge 2 ]
+do
+	echo "BSP Calculation for p=$p"
+	gran=`expr 1024 / $p`
+	counter=1
+	while [ $counter -le 10 ]
+	do
+		mpiexec -machinefile myfile -n $p ./mnbody 1000 $gran data_reza.txt
+		./analyzer $p 1002
+		counter=`expr $counter + 1`
+	done
+	p=`expr $p / 2`
+done
+

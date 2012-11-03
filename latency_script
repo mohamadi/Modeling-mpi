@@ -1,0 +1,14 @@
+#!/bin/sh
+gran=64
+while [ $gran -le 512 ]
+do
+	echo "Latency for Gran=$gran"
+	counter=1
+	while [ $counter -le 10 ]
+	do
+		mpiexec -machinefile myfile2 -n 2 ./nbody_latency $gran 
+		counter=`expr $counter + 1`
+	done
+	echo $'\n'
+	gran=`expr $gran \\* 2`
+done
