@@ -1,0 +1,132 @@
+Latency for Gran=64
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         41.302509307861328
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         45.875109434127808
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         78.725169897079468
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         59.788029193878174
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         62.097899913787842
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         43.090749979019165
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         52.582324743270874
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         55.343819856643677
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         83.529510498046875
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+192         75.809094905853271
+
+
+Latency for Gran=128
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         62.459205389022827
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         69.028114080429077
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         85.677900314331055
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         62.465225458145142
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         62.464884519577026
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         62.796350717544556
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         69.661175012588501
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         62.465075254440308
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         68.421769142150879
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+384         86.029005050659180
+
+
+Latency for Gran=256
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         63.546085357666016
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         62.529940605163574
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         76.630885601043701
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         87.505880594253540
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         63.138970136642456
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         86.783264875411987
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         85.284425020217896
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         88.309904336929321
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         64.317190647125244
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+768         62.647614479064941
+
+
+Latency for Gran=512
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        85.823299884796143
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        79.120434522628784
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        86.907935142517090
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        87.846349477767944
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        89.620434045791626
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        65.255630016326904
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        87.787505388259888
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        69.354510307312012
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        86.049610376358032
+# OSU MPI Latency Test Modified by Hamid
+# Size            Latency (us)
+1536        87.855479717254639
+
+
